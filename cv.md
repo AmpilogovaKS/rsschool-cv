@@ -20,4 +20,3 @@ Graduated from the Financial University in 2021. Then took front-end courses, wh
 ### Languages
 - English (B1)
 - Spanish (A2)
-
